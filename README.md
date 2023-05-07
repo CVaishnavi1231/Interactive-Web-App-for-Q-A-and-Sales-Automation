@@ -57,4 +57,4 @@ Press on the "CLICK TO CONTINUE" box to navigate to the Langchain Based App.
 #### Step 4: 
 Interact with the App by choosing the usecase you want.
 
-####NOTE: For the task 2 and 3 please upload the provided csv file. For Task 2, upload and for Task 3 upload.
+#### NOTE: For the task 2 and 3 please upload the provided csv file. For Task 2, upload Brand_Specifications.csv file and for Task 3 upload the Customer_Reviews.csv file .
