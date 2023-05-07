@@ -19,6 +19,9 @@ This function performs sentiment analysis on customer reviews, and displays the 
 
 ### Task 3: Competitor Analysis
 
+This usecase performs competitor analysis on comparing product features of the users brand with other brands of the same product using OpenAI's language model.
+#### NOTE : Please upload a CSV file containing the product description of your brand in the first row, followed by the descriptions of other brands for the same product in subsequent rows.
+
 
 
 
