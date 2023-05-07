@@ -22,15 +22,19 @@ The project requires several dependencies as listed in the requirements.txt file
 
 ##  Installation and Usage
 
-#### Step 1: Install the required packages and start the application
+#### Step 1: 
+Install the required packages and start the application
 
 ```ruby
 !chmod +x /content/install.sh
 !/content/install.sh
 ```
 
-#### Step 2: The above command outputs a url. Click on the url to navigate to start the Streamlit server and open the application in your default web browser.
+#### Step 2: 
+The above command outputs a url. Click on the url to navigate to start the Streamlit server and open the application in your default web browser.
 
-#### Step 3: Press on the "CLICK TO CONTINUE" box to navigate to the Langchain Based App.
+#### Step 3: 
+Press on the "CLICK TO CONTINUE" box to navigate to the Langchain Based App.
 
-#### Step 4: Interact with the App by choosing the usecase you want.
+#### Step 4: 
+Interact with the App by choosing the usecase you want.
