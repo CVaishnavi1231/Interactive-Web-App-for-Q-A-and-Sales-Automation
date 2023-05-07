@@ -51,7 +51,8 @@ The project requires several dependencies as listed in the requirements.txt file
 ##  Installation and Usage
 
 #### Step 1: 
-Install the required packages and start the application
+
+Install the required packages and start the application by running commands below. Before running the command modify the run_app.sh code to provide the coorect path of the requirements.txt and langchain_based_app.py files.
 
 ```ruby
 !chmod +x run_app.sh
