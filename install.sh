@@ -1,7 +1,7 @@
 #!/bin/bash
-pip install -r /content/requirements.txt
+pip install -r requirements.txt
 npm install localtunnel
-streamlit run /content/ex-2.py &>/content/logs.txt &
+streamlit run langchain_based_app.py &>/logs.txt &
 
 # Wait for Streamlit to start up
 sleep 3
