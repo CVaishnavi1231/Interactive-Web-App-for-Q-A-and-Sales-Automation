@@ -44,8 +44,8 @@ The project requires several dependencies as listed in the requirements.txt file
 Install the required packages and start the application
 
 ```ruby
-!chmod +x /content/install.sh
-!/content/install.sh
+!chmod +x install.sh
+!install.sh
 ```
 
 #### Step 2: 
