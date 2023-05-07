@@ -293,7 +293,7 @@ def function_3():
 
 def main():
 
-    st.title("My Langchain Based App")
+    st.title("Langchain Based App")
   
     function_options = ["No Selection", "Q&A With PDF File", "Customer Sentiment Analysis", "Competitor Analysis"]
     choice = st.selectbox("Select a function", function_options)
