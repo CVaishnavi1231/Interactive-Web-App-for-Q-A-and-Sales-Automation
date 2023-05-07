@@ -24,13 +24,13 @@ This usecase performs competitor analysis on comparing product features of the u
 
 ### NOTE : 
 
-#### For the Task 2 and Task 3 please upload the provided csv file. For Task 2, upload Brand_Specifications.csv file and for Task 3 upload the Customer_Reviews.csv file .
+* #### The application was coded and tested on Google Colab. 
 
-#### For Task 3 please upload a CSV file containing the product description of your brand in the first row, followed by the descriptions of other brands for the same product in subsequent rows.
+* #### For the Task 2 and Task 3 please upload the provided csv file. For Task 2, upload Brand_Specifications.csv file and for Task 3 upload the Customer_Reviews.csv file .
 
-#### The application was coded and tested on Google Colab. 
+* #### For Task 3 please upload a CSV file containing the product description of your brand in the first row, followed by the descriptions of other brands for the same product in subsequent rows.
 
-#### The command npx localtunnel --port 8501 creates a public URL for the Streamlit app using localtunnel. This URL can be used to access the app from anywhere in the world, allowing other users to view and interact with your app.
+* #### The command npx localtunnel --port 8501 in run_app,sh creates a public URL for the Streamlit app using localtunnel. This URL can be used to access the app from anywhere in the world, allowing other users to view and interact with your app.
 
 
 
@@ -46,6 +46,7 @@ The project requires several dependencies as listed in the requirements.txt file
 * faiss-cpu==1.7.4
 * tiktoken==0.3.3
 * chromadb==0.3.21
+* localtunnel==2.0.2
 
 ##  Installation and Usage
 
