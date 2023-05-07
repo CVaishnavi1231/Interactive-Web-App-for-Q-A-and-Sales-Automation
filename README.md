@@ -4,6 +4,7 @@
 This is a project that uses leverages Langchain and a Vector DB to to perform various natural language processing (NLP) tasks.
 The app is implemented using Streamlit, a popular Python library for building interactive web applications.
 
+<img width="766" alt="Screenshot 2023-05-07 at 12 21 27 PM" src="https://user-images.githubusercontent.com/89197875/236698735-3c974a09-a088-44d2-9c8d-de88ff019c7c.png">
 
 
 
