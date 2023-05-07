@@ -20,8 +20,15 @@ This function performs sentiment analysis on customer reviews, and displays the 
 ### Task 3: Competitor Analysis
 
 This usecase performs competitor analysis on comparing product features of the users brand with other brands of the same product using OpenAI's language model.
-#### NOTE : For Task 3 please upload a CSV file containing the product description of your brand in the first row, followed by the descriptions of other brands for the same product in subsequent rows.
 
+
+### NOTE : 
+
+#### For the Task 2 and Task 3 please upload the provided csv file. For Task 2, upload Brand_Specifications.csv file and for Task 3 upload the Customer_Reviews.csv file .
+
+#### For Task 3 please upload a CSV file containing the product description of your brand in the first row, followed by the descriptions of other brands for the same product in subsequent rows.
+
+#### The application was coded and tested on Google Colab. 
 
 
 
@@ -57,4 +64,4 @@ Press on the "CLICK TO CONTINUE" box to navigate to the Langchain Based App.
 #### Step 4: 
 Interact with the App by choosing the usecase you want.
 
-#### NOTE: For the task 2 and 3 please upload the provided csv file. For Task 2, upload Brand_Specifications.csv file and for Task 3 upload the Customer_Reviews.csv file .
+
