@@ -1,0 +1,8 @@
+langchain==0.0.161
+openai==0.27.6
+pypdf==3.8.1
+streamlit==1.22.0
+streamlit-chat==0.0.2.2
+faiss-cpu==1.7.4
+tiktoken==0.3.3
+chromadb==0.3.21

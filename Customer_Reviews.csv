@@ -1,0 +1,13 @@
+product_name,review_title,review_text,review_rating
+Product A,Great product!,I absolutely love this product. It works well and is very durable.,5
+Product A,Great product!,I absolutely love this product. It works well and is very durable.,5
+Product A,Great product!,I absolutely love this product. It works well and is very durable.,5
+Product A,"Good product, but not perfect","This product is pretty good, but it could be better. It doesn't work as well as I had hoped.",3
+Product A,Disappointing product,"I was really excited to try this product, but it was a huge disappointment. It didn't work at all.",1
+Product B,Amazing product!,This is the best product I have ever used. It works like a charm and is incredibly easy to use.,5
+Product B,"Not bad, but not great","This product is decent, but it's not the best I've ever used. It gets the job done, but there are better options out there.",3
+Product B,Terrible product,I wouldn't recommend this product to anyone. It doesn't work well at all and is a waste of money.It is much smaller than expected,1
+Product C,Excellent product!,"I am so impressed with this product. It works better than anything else I have tried, and it is very affordable.",5
+Product C,"Decent product, good value","This product is pretty good, especially for the price. It's not the best out there, but it gets the job done.",4
+Product C,Poor quality product,"This product is very poorly made. It fell apart after just a few uses, and I would not recommend it to anyone.",2
+Product C,Waste of money,I regret buying this product. It doesn't work well and is a waste of money.,1
