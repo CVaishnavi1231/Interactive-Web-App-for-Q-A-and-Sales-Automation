@@ -30,6 +30,8 @@ This usecase performs competitor analysis on comparing product features of the u
 
 #### The application was coded and tested on Google Colab. 
 
+#### The command npx localtunnel --port 8501 creates a public URL for the Streamlit app using localtunnel. This URL can be used to access the app from anywhere in the world, allowing other users to view and interact with your app.
+
 
 
 ## Requirements
