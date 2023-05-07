@@ -1,11 +1,26 @@
 # LANGCHAIN BASED APP
 
-This is a project that uses leverages Langchain and a Vector DB to do any simple use case for sales, marketing, and customer service teams. 
-A python library Streamlit is used to build the app. The three usecases I have implemented are:
 
-1. Q&A With PDF File
-2. Customer Sentiment Analysis 
-3. Competitor Analysis
+This is a project that uses leverages Langchain and a Vector DB to to perform various natural language processing (NLP) tasks.
+The app is implemented using Streamlit, a popular Python library for building interactive web applications.
+
+## Tasks
+
+The app includes the following three main functions:
+
+### Task 1: Q&A With PDF File
+
+This function allows users to upload a PDF file and then interact with a conversational AI chatbot to ask questions about the content of the PDF file.
+
+### Task 2: Customer Sentiment Analysis
+
+This function performs sentiment analysis on customer reviews, and displays the sentiment scores and sentiment words for each product.The sentiment score is calculated by analyzing the sentiment of each review and assigning a score of 1 for positive, -1 for negative, or 0 for neutral to each product, which is then summed up for all reviews of that product.
+
+
+### Task 3: Competitor Analysis
+
+
+
 
 ## Requirements
 
